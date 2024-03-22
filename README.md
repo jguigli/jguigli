@@ -1,5 +1,6 @@
-
-![98a20dabf81cf09a273331c0965716cd](https://github.com/jguigli/jguigli/assets/94934496/ed25cbba-ed11-463d-bfc6-525ba87ecf0b)
+<p align="center">
+  <img src="https://github.com/jguigli/jguigli/assets/94934496/ed25cbba-ed11-463d-bfc6-525ba87ecf0b" alt="gif">
+</p>
 
 <h1 align="center">🫸🏻Welcome🫷🏻</h1>
 <h3 align="center">I'm a student in AI programming at 42 Paris School💻</h3>
@@ -16,6 +17,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-![9fc4cdfb2fed856ecbaf6c08fdf0ef46](https://github.com/jguigli/jguigli/assets/94934496/e90bea61-f255-4871-915a-bb34f5a7aba8)
 

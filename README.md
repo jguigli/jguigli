@@ -3,12 +3,7 @@
 </p>
 
 <h1 align="center">🫸🏻Welcome🫷🏻</h1>
-<h3 align="center">I am Joel, a student specializing in Artificial Intelligence at 42 School Paris.
-
-
-
-
- 42 Paris School💻</h3>
+<h3 align="center">I am Joel, a student specializing in Artificial Intelligence at 42 School Paris 💻</h3>
 
 - 🌱 I’m currently learning **Machine learning and Neural Network**
 

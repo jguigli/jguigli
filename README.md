@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">🫸🏻Welcome🫷🏻</h1>
-<h3 align="center">I'm a student in AI programming at 42 Paris School💻</h3>
+<h3 align="center">My name is Joel</h3>
+<h3 align="center">I am a student studying AI at 42 Paris School💻</h3>
 
 - 🌱 I’m currently learning **Machine learning**
 
@@ -20,7 +21,8 @@
 
 <summary><h2>📕 Projects Machine Learning</h2></summary>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=jguigli&repo=multilayer-perceptron&theme=transparent&show_owner=true)](https://github.com/jguigli/multilayer-perceptron)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=jguigli&repo=ft_linear_regression&theme=transparent)](https://github.com/jguigli/ft_linear_regression)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=jguigli&repo=dslr&theme=transparent)](https://github.com/jguigli/dslr)
 
 
 <h3>💻 Profile Stats</h3>

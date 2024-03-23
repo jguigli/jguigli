@@ -39,7 +39,7 @@
 ![jguigli's GitHub stats](https://github-readme-stats.vercel.app/api?username=jguigli&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jguigli&layout=compact&theme=transparent)
 
-<h1 align="center">🫸🏻🫷🏻</h1>
+<h1 align="center"></h1>
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/jguigli/jguigli/assets/94934496/edb7be84-4a47-4c2d-a079-8eae40a6a524" alt="test-dif-kirti" style="width: 1000px; height: 100px;">

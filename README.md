@@ -28,3 +28,7 @@
 
 ![jguigli's GitHub stats](https://github-readme-stats.vercel.app/api?username=jguigli&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jguigli&layout=compact&theme=transparent)
+
+![pokemon-pixel-art](https://github.com/jguigli/jguigli/assets/94934496/f771d05f-4362-4623-b42a-7d22af7e3310)
+
+

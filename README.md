@@ -1,5 +1,5 @@
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: center;">
   <img src="https://github.com/jguigli/jguigli/assets/94934496/f771d05f-4362-4623-b42a-7d22af7e3310" alt="pokemon-pixel-art" style="width: 150px; height: 100px;">
   <img src="https://github.com/jguigli/jguigli/assets/94934496/f771d05f-4362-4623-b42a-7d22af7e3310" alt="pokemon-pixel-art" style="width: 150px; height: 100px;">
   <img src="https://github.com/jguigli/jguigli/assets/94934496/f771d05f-4362-4623-b42a-7d22af7e3310" alt="pokemon-pixel-art" style="width: 150px; height: 100px;">
@@ -43,7 +43,7 @@
 ![jguigli's GitHub stats](https://github-readme-stats.vercel.app/api?username=jguigli&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jguigli&layout=compact&theme=transparent)
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: center;">
   <img src="https://github.com/jguigli/jguigli/assets/94934496/f771d05f-4362-4623-b42a-7d22af7e3310" alt="pokemon-pixel-art" style="width: 150px; height: 100px;">
   <img src="https://github.com/jguigli/jguigli/assets/94934496/f771d05f-4362-4623-b42a-7d22af7e3310" alt="pokemon-pixel-art" style="width: 150px; height: 100px;">
   <img src="https://github.com/jguigli/jguigli/assets/94934496/f771d05f-4362-4623-b42a-7d22af7e3310" alt="pokemon-pixel-art" style="width: 150px; height: 100px;">

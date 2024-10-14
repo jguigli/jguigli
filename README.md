@@ -6,8 +6,6 @@
 
 <h1 align="center">🫸🏻Welcome🫷🏻</h1>
 
-![robot-gif-3-1](https://github.com/jguigli/jguigli/assets/94934496/37f87483-7cc7-48eb-a058-ba8ccc1c6eca)
-
 
 <h3 align="center">I am Joel, a student specializing in Artificial Intelligence at 42 School Paris 💻</h3>
 

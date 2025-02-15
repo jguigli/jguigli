@@ -9,9 +9,9 @@
 
 <h3 align="center">I am Joel, a student specializing in software engineering and artificial intelligence at 42 School Paris 💻</h3>
 
-- 📫 How to reach me **joel.guigli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **joel.guigli@gmail.com**
 <p align="left">
 </p>
 

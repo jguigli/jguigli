@@ -7,11 +7,7 @@
 <h1 align="center">🫸🏻Welcome🫷🏻</h1>
 
 
-<h3 align="center">I am Joel, a student specializing in Artificial Intelligence at 42 School Paris 💻</h3>
-
-- 🌱 I’m currently learning **Machine learning and Neural Network**
-
-- 💬 Ask me about **Python**
+<h3 align="center">I am Joel, a student specializing in software engineering and artificial intelligence at 42 School Paris 💻</h3>
 
 - 📫 How to reach me **joel.guigli@gmail.com**
 
